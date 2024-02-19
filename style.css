@@ -6,8 +6,12 @@
     text-overflow:ellipsis;
 }
   @media only screen and (max-width: 1026px) {
-    #btnReset {
+    #btnReset,#plus {
         display: none;
     }
+    #maincontainer{
+      height:655px;
+    }
+
 
 }
