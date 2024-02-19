@@ -1,0 +1,13 @@
+#ulTasks li.done {
+    color: orangered;
+    text-decoration: line-through;
+  }
+  [placeholder]{
+    text-overflow:ellipsis;
+}
+  @media only screen and (max-width: 1026px) {
+    #btnReset {
+        display: none;
+    }
+
+}
