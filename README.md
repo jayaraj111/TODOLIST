@@ -20,7 +20,7 @@
 - Download or clone the repository
 
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+https://github.com/jayaraj111/TODOLIST.git
 ```
 
 - Go to the directory
